@@ -6046,7 +6046,7 @@
 				)
 			)
 		)
-		(property "Value" "330Ω"
+		(property "Value" "10k Ω"
 			(at 119.38 109.22 90)
 			(effects
 				(font
