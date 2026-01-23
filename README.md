@@ -15,6 +15,10 @@ It's a microcontroller development board based on the **STM32F411CEU6**.
 
 ---
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/whQsK2HDIRk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## 📷 Project Media
 
 <p align="center">
@@ -24,6 +28,7 @@ It's a microcontroller development board based on the **STM32F411CEU6**.
   <br/><br/>
   <img src="./built.jpg" width="600" />
 </p>
+
 
 ---
 
