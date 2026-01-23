@@ -15,7 +15,7 @@ It's a microcontroller development board based on the **STM32F411CEU6**.
 
 ---
 
-[![Youtube Video]()](https://youtu.be/whQsK2HDIRk)
+[![Youtube Video](https://i.imgur.com/R4WmO05.png)](https://youtu.be/whQsK2HDIRk)
 
 ## 📷 Project Media
 
